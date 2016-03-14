@@ -22,8 +22,7 @@ $ npm install
 
 ------------------------------------------------------------------------------------
 
-##Development
-
+Development
 
 ```
 Start the image server (mock-data)
