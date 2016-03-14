@@ -1,6 +1,6 @@
 ##Volkswagen showroom
 
-##3:6 Responsive Interface (nine flat screens)
+##3:6 Responsive Interface
 
 Setup:
 ```
