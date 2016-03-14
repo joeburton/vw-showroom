@@ -1,11 +1,11 @@
 ##Volkswagen showroom
 
-##3:6 Responsive Interface (for use on nine flat screens)
+##3:6 Responsive Interface (nine flat screens)
 
 Setup:
 
 ```
-In terminal install nodemon globally
+Install nodemon globally
 $ npm install -g nodemon
 ```
 
