@@ -1,6 +1,6 @@
-##VW showroom.
+##Volkswagen showroom
 
-##Built to be displayed on nine screens 3:6
+##3:6 Responsive Interface (for use on nine flat screens)
 
 Setup:
 
