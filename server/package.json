@@ -1,0 +1,13 @@
+{
+  "name": "vw-sales-exec-emails",
+  "version": "1.0.0",
+  "description": "Showroom slide show",
+  "main": "server.js",
+  "author": "joe burton",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "http-server": "^0.9.0",
+    "httpdispatcher": "^1.0.0"
+  }
+}

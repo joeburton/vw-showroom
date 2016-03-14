@@ -1,0 +1,45 @@
+body {
+	transition: background-color 2s ease-in-out;
+	-moz-transition: background-color 2s ease-in-out;
+    -webkit-transition: background-color 2s ease-in-out;
+	background: rgba(255, 255, 255, 0.5);
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.loaded {
+	background: rgba(51, 51, 51, 0.5);
+}
+
+.grid-container {
+	display: block;
+}
+
+.top-level-row {
+	display: block;
+}
+
+.top-level-item {
+	display: inline-block;
+	float: left;
+}
+
+.row-item {
+	display: inline-block;
+}
+
+.split-level {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	float: left;
+	width: 50%;
+	transition: opacity 2s ease-in-out;
+	-moz-transition: opacity 2s ease-in-out;
+    -webkit-transition: opacity 2s ease-in-out;
+	opacity: 0;
+}
+
+.split-level.bg-loaded {
+	opacity: 1;
+}
